@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lock_screen">LockScreenActivity</string>
+    <string name="title_activity_startup">StartupActivity</string>
+</resources>
